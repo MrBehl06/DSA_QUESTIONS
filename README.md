@@ -29,15 +29,15 @@ This is a repository entirely dedicated to all kind of questions ranging from ba
 
 - Star 🌟 the repositery  to appreciate the work.
 
-  1) Take a look at the existing issues or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
+1) Take a look at the existing issues or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
-  2) Find a question you can solve from any of these platforms.
+2) Find a question you can solve from any of these platforms.
 
-  3) Open an issue.
+3) Open an issue.
 
-  4) Get it assigned.
+4) Get it assigned.
 
-  5) Work on it means
+5) Work on it means
 
   - Solve that question by yourself.
 
@@ -45,10 +45,10 @@ This is a repository entirely dedicated to all kind of questions ranging from ba
   
   - Invest some time on it.
 
-  6) Add it to your forked repo, if the folder doesn't exist create it first and then add your code.
+6) Add it to your forked repo, if the folder doesn't exist create it first and then add your code.
 
-  7) Make a pull request.
+7) Make a pull request.
 
-  8) Wait for it to be merged
+8) Wait for it to be merged
 
 - You contributed to this project.😃
